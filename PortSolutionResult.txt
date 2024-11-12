@@ -1,0 +1,133 @@
+==========
+References
+==========
+DevFreela.Core.DTOs
+DevFreela.Core.Entities
+System
+DevFreela.Core.Enums
+DevFreela.Core.Exceptions
+DevFreela.Core.IntegrationEvents
+DevFreela.Core.Repositories
+System.Threading.Tasks
+DevFreela.Core.Services
+System.IO
+System.Collections.Generic
+System.Linq
+System.Net.Http
+System.Threading
+project.all
+DevFreela.Infrastructure.Auth
+Microsoft.Extensions.Configuration
+System.Security.Cryptography
+System.Text
+Microsoft.IdentityModel.Tokens
+System.Security.Claims
+System.IdentityModel.Tokens.Jwt
+DevFreela.Infrastructure.CloudServices.Interfaces
+DevFreela.Infrastructure.MessageBus
+RabbitMQ.Client
+DevFreela.Infrastructure.Payments
+System.Text.Json
+DevFreela.Infrastructure.Persistence.Configurations
+Microsoft.EntityFrameworkCore.Metadata.Builders
+Microsoft.EntityFrameworkCore
+DevFreela.Infrastructure.Persistence
+System.Reflection
+DevFreela.Infrastructure.Persistence.Migrations
+Microsoft.EntityFrameworkCore.Migrations
+Microsoft.EntityFrameworkCore.Migrations.Operations.Builders
+<global namespace>
+Microsoft.EntityFrameworkCore.Metadata
+Microsoft.EntityFrameworkCore.Infrastructure
+DevFreela.Infrastructure.Persistence.Repositories
+MySql.Data.MySqlClient
+Dapper
+Microsoft.EntityFrameworkCore.Storage.ValueConversion
+
+===============
+DownloadedFiles
+===============
+project.all.json
+system.net.http.json
+
+==============
+ProjectResults
+==============
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/DevFreela.Infrastructure/DevFreela.Infrastructure.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/DevFreela.Core/DevFreela.Core.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/DevFreela.Core/DevFreela.Core.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/DevFreela.Infrastructure/DevFreela.Infrastructure.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+
+===========
+BuildErrors
+===========
+
+
